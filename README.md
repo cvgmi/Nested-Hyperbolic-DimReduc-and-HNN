@@ -3,7 +3,7 @@
 This code is the official implementation of the CVPR 2022 paper:
 Nested Hyperbolic Spaces for Dimensionality Reduction and Hyperbolic NN Design.
 
-This research was in part funded by the NSF grant IIS-1724174  grant IIS-1724174, the NIH NINDS and NIA via R01NS121099 to Vemuto Baba C. Vemuri, Department of CISE, Univ. of Florida and and the MOST grant 110-2118-M-002-005-MY3 to Yang.
+This research was in part funded by the NSF grant IIS-1724174, the NIH NINDS and NIA via R01NS121099 to Vemuto Baba C. Vemuri, Department of CISE, Univ. of Florida and and the MOST grant 110-2118-M-002-005-MY3 to Yang.
 
 ## Citation
 
